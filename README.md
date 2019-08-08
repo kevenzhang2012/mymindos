@@ -4,4 +4,4 @@
 
 记录他升级的每一步
 开始吧
-请看Wiki
+请看[Wiki](https://github.com/kevenzhang2012/mymindos/wiki)
